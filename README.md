@@ -1,1 +1,1 @@
-
+###All files and code in this repository are from Deep Learning research performed while pursuing my M.S. degree at George Washington University. All work here can also be attributed to my partner in research, Evan Carraway. 
